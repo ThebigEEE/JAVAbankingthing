@@ -1,4 +1,4 @@
-ackage com.example.bank.demo;
+package com.example.bank.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
